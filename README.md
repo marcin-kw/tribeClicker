@@ -1,0 +1,2 @@
+# tribeClicker
+Created with CodeSandbox
